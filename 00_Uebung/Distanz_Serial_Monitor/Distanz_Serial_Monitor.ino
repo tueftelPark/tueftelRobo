@@ -1,3 +1,8 @@
+//Nachdem du den Code auf das Arduino rübergespielt hast, drücke auf der Tastatur CTRL Shift und M gleichzeitig.
+//Ein neues Fenster öffnet sich.
+//Halte deine Hand vor den Ultraschallsensor. Was erkennst du auf dem Computer?
+
+
 // Definiere die Pins für Trig und Echo
 const int trigPin = A1;
 const int echoPin = A2;
