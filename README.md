@@ -11,7 +11,7 @@ Diese knifflige Challenge kannst du alleine oder im 2er lösen und lernst dabei 
 
 <p><b>Erklärungen zu den einzelnen Ordner<b/><p/>
 
-<p><u>00_Uebungen<u/><p/>
+<p><U>00_Uebungen<U/><p/>
 
 <p>In diesem Ordner sind mehrere Übungen zu finden rund um das autonome Fahrzeug.
 Klicke auf die gewünschte Übung und lade alle Dateien im Ordner gerunter. (Icon oben rechts).
