@@ -9,16 +9,18 @@ Diese knifflige Challenge kannst du alleine oder im 2er lösen und lernst dabei 
 
 <br/>
 
-<p><b>Erklärungen zu den einzelnen Ordner<b/><p/>
+<p><b>Erklärungen zu den einzelnen Ordner
 
-<p><U>00_Uebungen<U/><p/>
 
-<p>In diesem Ordner sind mehrere Übungen zu finden rund um das autonome Fahrzeug.
+<br/>
+00_Uebungen
+
+In diesem Ordner sind mehrere Übungen zu finden rund um das autonome Fahrzeug.
 Klicke auf die gewünschte Übung und lade alle Dateien im Ordner gerunter. (Icon oben rechts).
 Die Datei README.md muss nicht heruntergeladen werden. 
 Optional kann der Code auch direkt kopiert werden.
 <br/>
-In jeder Übung ist die Aufgabe im Code wie auch auf GitHub beschrieben.<p/>
+In jeder Übung ist die Aufgabe im Code wie auch auf GitHub beschrieben.
 
 <br/>
 
