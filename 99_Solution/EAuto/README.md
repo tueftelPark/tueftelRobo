@@ -1,6 +1,4 @@
 # Autonomes Fahrzeug mit Seitenkontrolle
-<br/>
-
 <h3>Ablauf</h3>
 Fahrzeug fährt gerade aus solange kein Objekt sich näher befindet als GrenzeDistanz.
 In diesem Zustand kontrolliert der Sensor ob sich links un rechts ein Objekt/Wand befindet.
