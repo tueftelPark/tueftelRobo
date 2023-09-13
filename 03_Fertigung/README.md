@@ -1,5 +1,5 @@
-# Sonstiges
+# Fertigung
 
-Hier sind sonstige Dateien zu finden.
+Hier sind Dateien zur Fertigung des autonomen Fahrzeugs zu finden.
 
 ![Under Construction](https://navtec.de/wp-content/uploads/2018/02/under-construction-2408061_1920.png)
