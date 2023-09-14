@@ -9,7 +9,7 @@ const uint8_t RechterMotorRueckwaerts = 7; // In3
 void setup() {
 
   pinMode(LinkerMotorVorwaerts, OUTPUT);
-  pinMode(LinkerMotorVorwaerts, OUTPUT);
+  pinMode(LinkerMotorRueckwaerts, OUTPUT);
 }
 
 void loop() {
