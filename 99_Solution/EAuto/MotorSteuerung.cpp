@@ -17,14 +17,14 @@ void InitialisierungMotor ()
       // Init MotorDriver
   pinMode(LinkerMotorVorwaerts, OUTPUT);
   pinMode(LinkerMotorVorwaerts, OUTPUT);
-  pinMode(RechterMotorVowaerts, OUTPUT);
+  pinMode(RechterMotorVorwaerts, OUTPUT);
   pinMode(RechterMotorRueckwaerts, OUTPUT);
 
 
 
   digitalWrite(LinkerMotorVorwaerts, LOW);
   digitalWrite(LinkerMotorRueckwarts, LOW);
-  digitalWrite(RechterMotorVowaerts, LOW);
+  digitalWrite(RechterMotorVorwaerts, LOW);
   digitalWrite(RechterMotorRueckwaerts, LOW);
 
 }
@@ -36,7 +36,7 @@ void GeradeFahren()
 {
   digitalWrite(LinkerMotorVorwaerts, HIGH);
   digitalWrite(LinkerMotorRueckwarts, LOW);
-  digitalWrite(RechterMotorVowaerts, HIGH);
+  digitalWrite(RechterMotorVorwaerts, HIGH);
   digitalWrite(RechterMotorRueckwaerts, LOW);
 }
 
@@ -47,7 +47,7 @@ void LinksFahren()
 {
   digitalWrite(LinkerMotorVorwaerts, LOW);
   digitalWrite(LinkerMotorRueckwarts, LOW);
-  digitalWrite(RechterMotorVowaerts, HIGH);
+  digitalWrite(RechterMotorVorwaerts, HIGH);
   digitalWrite(RechterMotorRueckwaerts, LOW);
 }
 
@@ -59,7 +59,7 @@ void RechtsFahren()
 {
   digitalWrite(LinkerMotorVorwaerts, HIGH);
   digitalWrite(LinkerMotorRueckwarts, LOW);
-  digitalWrite(RechterMotorVowaerts, LOW);
+  digitalWrite(RechterMotorVorwaerts, LOW);
   digitalWrite(RechterMotorRueckwaerts, LOW);
 }
 
@@ -70,6 +70,6 @@ void StoppFahren()
 {
   digitalWrite(LinkerMotorVorwaerts, LOW);
   digitalWrite(LinkerMotorRueckwarts, LOW);
-  digitalWrite(RechterMotorVowaerts, LOW);
+  digitalWrite(RechterMotorVorwaerts, LOW);
   digitalWrite(RechterMotorRueckwaerts, LOW);
 }
