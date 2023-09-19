@@ -8,10 +8,9 @@ In unserem Workshop lernst du, wie ein solcher Sensor funktioniert und nutzt die
 Diese knifflige Challenge kannst du alleine oder im 2er lösen und lernst dabei die Sprache der Computer zu verstehen und wie man Fehler erkennt und sie auch behebt.
 
 
-<div style="text-align: center;">
-![alt text](https://werkbude.ch/uploads/tueftelparkpilatus/image_files/preview/e3ac29bf12c8c204c253aa2e24bcc2e4.jpg)
+<div style="text-align:center;">
+  <img src="https://werkbude.ch/uploads/tueftelparkpilatus/image_files/preview/e3ac29bf12c8c204c253aa2e24bcc2e4.jpg" alt="Beschreibung des Bildes">
 </div>
-
 
 <img src="https://werkbude.ch/uploads/tueftelparkpilatus/image_files/preview/e3ac29bf12c8c204c253aa2e24bcc2e4.jpg" alt="Alt-Text" title="" />
 
