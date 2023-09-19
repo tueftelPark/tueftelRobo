@@ -9,13 +9,8 @@ Diese knifflige Challenge kannst du alleine oder im 2er lösen und lernst dabei 
 
 
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-    src="https://werkbude.ch/uploads/tueftelparkpilatus/image_files/preview/e3ac29bf12c8c204c253aa2e24bcc2e4.jpg" 
-    alt="Our logo">
-</img>
+<img src="https://werkbude.ch/uploads/tueftelparkpilatus/image_files/preview/e3ac29bf12c8c204c253aa2e24bcc2e4.jpg" alt="Alt-Text" title="" />
+
 
 <br/>
 
