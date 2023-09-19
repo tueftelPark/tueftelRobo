@@ -7,7 +7,7 @@ Hast du dich schon gefragt, wie ein solcher Hindernisse erkennt, damit es keine 
 In unserem Workshop lernst du, wie ein solcher Sensor funktioniert und nutzt die Daten des Sensors, um ein autonomes Fahren zu ermöglichen. 
 Diese knifflige Challenge kannst du alleine oder im 2er lösen und lernst dabei die Sprache der Computer zu verstehen und wie man Fehler erkennt und sie auch behebt.
 
-%<img src="https://werkbude.ch/uploads/tueftelparkpilatus/image_files/preview/e3ac29bf12c8c204c253aa2e24bcc2e4.jpg" alt="Alt-Text" title="" />
+
 
 <img 
     style="display: block; 
