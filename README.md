@@ -1,4 +1,5 @@
 # Autonomes Fahrzeug
+<a name="anfang"></a>
 
 <h3>Programmiere dein eigenes Fahrzeug!</h3>
 
@@ -16,6 +17,10 @@ Diese knifflige Challenge kannst du alleine oder im 2er lösen und lernst dabei 
 
 <br/>
 
+Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst du den Rechner entzippen und alle deine Übungen nutzen.
+
+</br>
+
 
 <h4> Erklärungen zu den einzelnen Ordner </h4>
 
@@ -26,10 +31,7 @@ Diese knifflige Challenge kannst du alleine oder im 2er lösen und lernst dabei 
 <br/>
 
 In diesem Ordner sind mehrere Übungen zu finden rund um das autonome Fahrzeug.
-Klicke auf die gewünschte Übung und lade alle Dateien im Ordner herunter. (Icon oben rechts).
-Die Datei README.md muss nicht heruntergeladen werden. 
-Optional kann der Code auch direkt kopiert werden.
-Jeder Übung ist die Aufgabe im Code wie auch auf GitHub beschrieben.
+Jede Übung ist die Aufgabe im Code wie auch auf GitHub beschrieben.
 
 <br/>
 
@@ -60,3 +62,5 @@ Hier sind Dateien zur Fertigung des autonomen Fahrzeugs zu finden.
 <ins>99_Solution</ins>
 
 Hier sind mögliche Lösungscodes für das autonome Fahrzeug zu finden.
+
+[Zum Anfang der Datei](#anfang)
