@@ -9,7 +9,7 @@ Diese knifflige Challenge kannst du alleine oder im 2er lösen und lernst dabei 
 
 
 <div style="text-align:center;">
-  <img src="https://werkbude.ch/uploads/tueftelparkpilatus/image_files/preview/e3ac29bf12c8c204c253aa2e24bcc2e4.jpg" alt="Beschreibung des Bildes">
+  <img src="Autonomes_Auto-1.jpg" alt="Beschreibung des Bildes">
 </div>
 
 
