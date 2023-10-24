@@ -1,6 +1,9 @@
 # Tüftel Roboter
 <a name="anfang"></a>
 
+<div style="text-align:center;">
+  <img src="Unwuchtbot-3.jpg" alt="TüftelRobo">
+</div>
 
 <br/>
 
@@ -9,7 +12,7 @@ Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst 
 </br>
 
 
-<h4> Erklärungen zu den einzelnen Ordner </h4>
+## Erklärungen zu den einzelnen Ordner 
 
 
 <br/>
@@ -49,5 +52,7 @@ Hier sind Dateien zur Fertigung des autonomen Fahrzeugs zu finden.
 <ins>99_Solution</ins>
 
 Hier sind mögliche Lösungscodes für das autonome Fahrzeug zu finden.
+
+## FAQ
 
 [Zum Anfang der Datei](#anfang)
