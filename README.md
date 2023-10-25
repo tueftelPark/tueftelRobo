@@ -5,13 +5,12 @@
   <img src="Unwuchtbot-3.jpg" alt="TüftelRobo">
 </div>
 
+
 <br/>
 
-Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst du den Rechner entzippen und alle deine Übungen nutzen.
+Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst du den Ordner entzippen und alle Dateien korrekt ansehen.
 
 </br>
-
-
 
 
 ## Erklärungen zu den einzelnen Ordner 
@@ -56,5 +55,4 @@ Hier sind mögliche Lösungscodes zu finden.
 
 
 ## FAQ
-
 [Zum Anfang der Datei](#anfang)
