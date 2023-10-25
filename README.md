@@ -12,10 +12,7 @@ Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst 
 </br>
 
 
-## Erklärungen zu den einzelnen Ordner 
 
-
-<br/>
 
 ## Erklärungen zu den einzelnen Ordner 
 
